@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shoolini University - Top Research & Innovation University</title>
+    <meta name="description" content="Welcome to Shoolini University, a leading research-driven university offering world-class education, top-tier placements, and a vibrant campus life in Himachal Pradesh.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@200;300;400;500&family=Albert+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="templatemo-633-celadon-style.css">
+</head>
+<body>
+
+    <header class="top" id="top">
+        <div class="shell bar">
+            <a class="brand" href="#home"><span class="mark" aria-hidden="true"></span>Shoolini</a>
+            <nav class="nav">
+                <a href="#features">Programs</a>
+                <a href="#how">Research & Innovation</a>
+                <a href="#pricing">Admissions</a>
+                <a href="#faq">FAQ</a>
+            </nav>
+            <a class="btn solid" href="#start">Apply Now</a>
+            <button class="burger" id="burger" aria-label="Open menu" aria-expanded="false" aria-controls="drawer">
+                <span></span><span></span><span></span>
+            </button>
+        </div>
+    </header>
+
+    <div class="scrim" id="scrim"></div>
+
+    <aside class="drawer" id="drawer" aria-label="Menu">
+        <span class="dtag">Menu</span>
+        <a href="#features">Programs</a>
+        <a href="#how">Research & Innovation</a>
+        <a href="#pricing">Admissions</a>
+        <a href="#stories">Campus Life</a>
+        <a href="#faq">FAQ</a>
+        <a class="btn solid" href="#start">Apply Now</a>
+    </aside>
+
+    <main id="home">
+        <!-- hero -->
+        <section class="hero">
+            <div class="shell">
+                <span class="pill rv"><b>Ranked #1</b> Private University in India (QS & Times Higher Education)</span>
+                <h1 class="rv d1">Shoolini University</h1>
+                <p class="sub rv d2">Empowering the next generation of leaders, scientists, and innovators through cutting-edge research, world-class faculty, and global career opportunities.</p>
+                <div class="acts rv d3">
+                    <a class="btn solid" href="#start">Admissions Open 2026</a>
+                    <a class="btn" href="#features">Explore Programs</a>
+                </div>
+                <p class="note rv d3">100% Placement Assistance • Global Exchange Programs</p>
+
+                <div class="stage rv d3" aria-hidden="true">
+                    <div class="slab s1" data-depth="14">
+                        <span class="src"><i class="dot" style="background:var(--sky)"></i>Research</span>
+                        <p>"Top citation impact in India for biotechnology and core sciences."</p>
+                    </div>
+                    <div class="slab s2" data-depth="-18">
+                        <span class="src"><i class="dot" style="background:var(--coral)"></i>Placements</span>
+                        <p>"Highest package offered crossed top industry benchmarks this year."</p>
+                    </div>
+                    <div class="slab s3" data-depth="-11">
+                        <span class="src"><i class="dot" style="background:var(--jade)"></i>Campus</span>
+                        <p>"Nestled in the pine hills of Solan, Himachal Pradesh."</p>
+                    </div>
+                    <div class="slab s4" data-depth="16">
+                        <span class="src"><i class="dot" style="background:#F0C980"></i>Patents</span>
+                        <p>"Over 1,000+ patents filed by students and faculty researchers."</p>
+                    </div>
+                    <div class="core" data-depth="7">
+                        <span class="lab">Excellence</span>
+                        <h3>Shoolini Impact</h3>
+                        <div class="meter">
+                            <i></i>
+                        </div>
+                        <div class="row"><span>Programs Offered</span><b>150+</b></div>
+                        <div class="row"><span>Global Partners</span><b>250+</b></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- trust / accreditations -->
+        <section class="pad-s">
+            <div class="shell rv">
+                <p class="trust-cap">Recognized & Accredited By</p>
+                <div class="trust">
+                    <span>NAAC A+</span><span>QS World Rankings</span><span>NIRF Top 100</span><span>UGC Approved</span><span>DSIR Certified</span><span>AICTE</span>
+                </div>
+            </div>
+        </section>
+
+        <!-- features / programs -->
+        <section class="pad" id="features">
+            <div class="shell center">
+                <span class="eyebrow rv">Academics</span>
+                <h2 class="h2 rv">World-class faculties designed for the future.</h2>
+                <p class="lede rv d1">Choose from industry-aligned undergraduate, postgraduate, and doctoral programs.</p>
+                <p class="hint rv d1">Click a panel to open details.</p>
+            </div>
+            <div class="shell">
+                <div class="slabrow rv" id="slabrow">
+                    <div class="stave open" role="button" tabindex="0" aria-expanded="true">
+                        <div class="spine"><span class="pip t-jade"></span><span class="st">Engineering & Technology</span></div>
+                        <div class="bodywrap">
+                            <div class="body">
+                                <div class="tile t-jade">
+                                    <svg viewBox="0 0 24 24">
+                                        <path d="M3 7h18M3 12h18M3 17h11" />
+                                        <circle cx="19" cy="17" r="2.4" />
+                                    </svg>
+                                </div>
+                                <h3>Engineering & Technology</h3>
+                                <p>Cutting-edge specializations including AI, Machine Learning, Cyber Security, Biotechnology, and Core Engineering streams.</p>
+                                <p class="proof">Backed by <b>state-of-the-art tech labs</b> and major tech partnerships.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="stave" role="button" tabindex="0" aria-expanded="false">
+                        <div class="spine"><span class="pip t-sky"></span><span class="st">Management & Business</span></div>
+                        <div class="bodywrap">
+                            <div class="body">
+                                <div class="tile t-sky">
+                                    <svg viewBox="0 0 24 24">
+                                        <circle cx="8" cy="9" r="4" /><circle cx="16.5" cy="15" r="4.2" />
+                                        <path d="M11 11.6l2.6 2" />
+                                    </svg>
+                                </div>
+                                <h3>Management & Business (MBA)</h3>
+                                <p>Mentored by global corporate leaders, emphasizing practical learning, case studies, and guaranteed mentorship programs.</p>
+                                <p class="proof"><b>Top-tier corporate placements</b> across banking, FMCG, and consulting.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="stave" role="button" tabindex="0" aria-expanded="false">
+                        <div class="spine"><span class="pip t-coral"></span><span class="st">Biotech & Life Sciences</span></div>
+                        <div class="bodywrap">
+                            <div class="body">
+                                <div class="tile t-coral">
+                                    <svg viewBox="0 0 24 24">
+                                        <path d="M5 19V10M12 19V5M19 19v-6" />
+                                        <path d="M3 21h18" />
+                                    </svg>
+                                </div>
+                                <h3>Biotech & Life Sciences</h3>
+                                <p>Ranked amongst the best globally for research output, equipped with advanced Yogananda Center of Excellence in Biodiversity.</p>
+                                <p class="proof">Leading the nation in <b>research publications and patents</b>.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="stave" role="button" tabindex="0" aria-expanded="false">
+                        <div class="spine"><span class="pip t-sky"></span><span class="st">Liberal Arts & Journalism</span></div>
+                        <div class="bodywrap">
+                            <div class="body">
+                                <div class="tile t-sky">
+                                    <svg viewBox="0 0 24 24">
+                                        <path d="M4 6h16v11H9l-5 4z" />
+                                        <path d="M9 11h6" />
+                                    </svg>
+                                </div>
+                                <h3>Liberal Arts & Mass Communication</h3>
+                                <p>Interdisciplinary courses encouraging critical thinking, creative writing, media production, and global diplomacy studies.</p>
+                                <p class="proof">Fostering <b>holistic creative leaders</b> for tomorrow's media landscape.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="stave" role="button" tabindex="0" aria-expanded="false">
+                        <div class="spine"><span class="pip t-jade"></span><span class="st">Pharmaceutical Sciences</span></div>
+                        <div class="bodywrap">
+                            <div class="body">
+                                <div class="tile t-jade">
+                                    <svg viewBox="0 0 24 24">
+                                        <rect x="3" y="4" width="18" height="16" rx="3" />
+                                        <path d="M3 9h18M8 4v16" />
+                                    </svg>
+                                </div>
+                                <h3>Pharmaceutical Sciences</h3>
+                                <p>Top-ranked pharmacy department with heavy focus on drug discovery, clinical research, and pharmaceutical biotech.</p>
+                                <p class="proof">State-of-the-art <b>GMP-compliant R&D labs</b> on campus.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="stave" role="button" tabindex="0" aria-expanded="false">
+                        <div class="spine"><span class="pip t-coral"></span><span class="st">Global SPRINT Program</span></div>
+                        <div class="bodywrap">
+                            <div class="body">
+                                <div class="tile t-coral">
+                                    <svg viewBox="0 0 24 24">
+                                        <path d="M12 3v6M12 15v6M3 12h6M15 12h6" />
+                                        <circle cx="12" cy="12" r="3" />
+                                    </svg>
+                                </div>
+                                <h3>Skill Placement & Revitalization (SPRINT)</h3>
+                                <p>Inspired by top global universities, SPRINT is a unique skill-building module designed to make students industry-ready.</p>
+                                <p class="proof">Delivered by <b>visiting international and corporate experts</b>.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- how it works / admission process -->
+        <section class="pad" id="how">
+            <div class="shell center">
+                <span class="eyebrow rv">Admissions Journey</span>
+                <h2 class="h2 rv">Your path to Shoolini in three simple steps.</h2>
+            </div>
+            <div class="shell">
+                <div class="track">
+                    <div class="step rv">
+                        <div class="disc">1</div>
+                        <h3>Apply Online</h3>
+                        <p>Fill out our quick online application form with your academic details and program choice.</p>
+                    </div>
+                    <div class="step rv d1">
+                        <div class="disc">2</div>
+                        <h3>Entrance & Interaction</h3>
+                        <p>Appear for the Shoolini Admission Test (STEP) or submit valid national-level test scores followed by an interaction round.</p>
+                    </div>
+                    <div class="step rv d2">
+                        <div class="disc">3</div>
+                        <h3>Enroll & Thrive</h3>
+                        <p>Receive your admission offer, complete your enrollment, and step into an inspiring campus journey.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- stats -->
+        <section class="pad-s">
+            <div class="shell">
+                <div class="statplate rv">
+                    <div class="stat"><b data-to="1000" data-suffix="+">0+</b><span>Patents filed by students and faculty</span></div>
+                    <div class="stat"><b data-to="99" data-suffix="%">0%</b><span>Placement record for eligible graduates</span></div>
+                    <div class="stat"><b data-to="250" data-suffix="+">0+</b><span>Global university research collaborations</span></div>
+                </div>
+            </div>
+        </section>
+
+        <!-- testimonials -->
+        <section class="pad" id="stories">
+            <div class="shell">
+                <div class="railhead">
+                    <div>
+                        <span class="eyebrow rv">Student Stories</span>
+                        <h2 class="h2 rv">What life and learning look like at Shoolini.</h2>
+                    </div>
+                    <div class="railnav rv d1">
+                        <button class="arw" id="prev" aria-label="Previous story">
+                            <svg viewBox="0 0 24 24">
+                                <path d="M15 5l-7 7 7 7" />
+                            </svg>
+                        </button>
+                        <span class="count" id="count">01 / 06</span>
+                        <button class="arw" id="next" aria-label="Next story">
+                            <svg viewBox="0 0 24 24">
+                                <path d="M9 5l7 7-7 7" />
+                            </svg>
+                        </button>
+                    </div>
+                </div>
+            </div>
+            <div class="shell">
+                <div class="viewport" id="viewport">
+                    <div class="lane" id="lane">
+                        <article class="quote">
+                            <div class="qtop"><span class="co"><i class="t-jade"></i>B.Tech CSE</span><span class="result">Placed at Top MNC</span></div>
+                            <blockquote> The coding culture and hackathons at Shoolini gave me the exact hands-on exposure I needed to clear technical rounds with ease. </blockquote>
+                            <div class="groove"></div>
+                            <div class="who">
+                                <span class="face t-jade">AK</span>
+                                <div><b>Aarav Kumar</b><span>Alumnus</span></div>
+                            </div>
+                        </article>
+                        <article class="quote tint">
+                            <div class="qtop"><span class="co"><i class="t-sky"></i>MBA</span><span class="result">Leadership Role</span></div>
+                            <blockquote> SPRINT training completely transformed my confidence. The mentorship from industry veterans was a game-changer for my career. </blockquote>
+                            <div class="groove"></div>
+                            <div class="who">
+                                <span class="face t-sky">PS</span>
+                                <div><b>Priya Sharma</b><span>Business Analyst</span></div>
+                            </div>
+                        </article>
+                        <article class="quote">
+                            <div class="qtop"><span class="co"><i class="t-coral"></i>Biotechnology</span><span class="result">Published 3 Papers</span></div>
+                            <blockquote> Having access to advanced research labs as an undergraduate student is rare. Shoolini made it possible and supported my patent filing. </blockquote>
+                            <div class="groove"></div>
+                            <div class="who">
+                                <span class="face t-coral">RV</span>
+                                <div><b>Rohan Verma</b><span>Research Scholar</span></div>
+                            </div>
+                        </article>
+                        <article class="quote">
+                            <div class="qtop"><span class="co"><i class="t-jade"></i>Pharmaceutics</span><span class="result">Global Fellowship</span></div>
+                            <blockquote> The faculty here pushes you to think beyond textbooks. Their guidance helped me secure a prestigious international fellowship. </blockquote>
+                            <div class="groove"></div>
+                            <div class="who">
+                                <span class="face t-jade">NM</span>
+                                <div><b>Neha Mahajan</b><span>Gold Medalist</span></div>
+                            </div>
+                        </article>
+                        <article class="quote tint">
+                            <div class="qtop"><span class="co"><i class="t-sky"></i>Campus Life</span><span class="result">Vibrant Ecosystem</span></div>
+                            <blockquote> Living in the Himalayan foothills while studying in world-class facilities is an unmatched experience. The clubs and fests are amazing. </blockquote>
+                            <div class="groove"></div>
+                            <div class="who">
+                                <span class="face t-sky">KD</span>
+                                <div><b>Karan Dhillon</b><span>Design Student</span></div>
+                            </div>
+                        </article>
+                        <article class="quote">
+                            <div class="qtop"><span class="co"><i class="t-coral"></i>Mechanical Engg</span><span class="result">R&D Placement</span></div>
+                            <blockquote> From day one, the focus is on practical innovation. The university's strong industry ties helped me land my dream role in core engineering. </blockquote>
+                            <div class="groove"></div>
+                            <div class="who">
+                                <span class="face t-coral">AS</span>
+                                <div><b>Aniket Singh</b><span>R&D Engineer</span></div>
+                            </div>
+                        </article>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- pricing / programs tuition overview -->
+        <section class="pad" id="pricing">
+            <div class="shell center">
+                <span class="eyebrow rv">Programs & Scholarships</span>
+                <h2 class="h2 rv">Merit-based scholarships and transparent fee structures.</h2>
+                <p class="lede rv d1">We believe financial constraints should never come in the way of quality education.</p>
+                <div class="toggle rv d1">
+                    <span class="lbl on" id="lblM">Undergraduate</span>
+                    <div class="switch" id="switch" role="switch" tabindex="0" aria-checked="false" aria-label="Switch to postgraduate programs">
+                        <span class="knob"></span>
+                    </div>
+                    <span class="lbl" id="lblY">Postgraduate</span>
+                    <span class="save">Up to 100% Scholarship</span>
+                </div>
+            </div>
+            <div class="shell">
+                <div class="plans">
+                    <article class="plan rv">
+                        <span class="tag">Merit Scholarship</span>
+                        <div class="cost"><b class="price" data-m="100%" data-y="50%">100%</b><span class="per">tuition waiver</span></div>
+                        <p class="total" data-m="Based on board/exam scores" data-y="Based on graduation scores">For top scorers</p>
+                        <p class="desc">Rewarding academic excellence with full or partial fee waivers.</p>
+                        <a class="btn wide" href="#start">Check Eligibility</a>
+                        <ul class="feat">
+                            <li><i></i>Based on 12th/Graduation marks</li>
+                            <li><i></i>Continues across academic years</li>
+                            <li><i></i>Easy online verification</li>
+                            <li><i></i>Dedicated counselor support</li>
+                        </ul>
+                    </article>
+                    <article class="plan hot rv d1">
+                        <span class="tag">Featured Programs</span>
+                        <div class="cost"><b class="price" data-m="B.Tech" data-y="MBA">B.Tech</b><span class="per">& Professional</span></div>
+                        <p class="total" data-m="High demand specializations" data-y="Corporate leadership track">Industry aligned</p>
+                        <p class="desc">Our flagship programs featuring advanced labs, internships, and SPRINT.</p>
+                        <a class="btn solid wide" href="#start">Apply Now</a>
+                        <ul class="feat">
+                            <li><i></i>100% placement assistance</li>
+                            <li><i></i>International exchange opportunities</li>
+                            <li><i></i>Mentorship by industry leaders</li>
+                            <li><i></i>Live research & live projects</li>
+                            <li><i></i>State-of-the-art campus facilities</li>
+                        </ul>
+                    </article>
+                    <article class="plan rv d2">
+                        <span class="tag">Doctoral (Ph.D.)</span>
+                        <div class="cost"><b class="price" data-m="Ph.D." data-y="Research">Ph.D.</b><span class="per">Fellowships</span></div>
+                        <p class="total" data-m="Junior/Senior Research Fellowships" data-y="Funded projects">Research focused</p>
+                        <p class="desc">For passionate scholars looking to drive breakthroughs in science and technology.</p>
+                        <a class="btn wide" href="#start">Explore Research</a>
+                        <ul class="feat">
+                            <li><i></i>Research fellowships available</li>
+                            <li><i></i>Access to high-end instrumentation labs</li>
+                            <li><i></i>Global co-supervision options</li>
+                            <li><i></i>Patent filing support</li>
+                            <li><i></i>Published journals encouragement</li>
+                        </ul>
+                    </article>
+                </div>
+            </div>
+        </section>
+
+        <!-- faq -->
+        <section class="pad" id="faq">
+            <div class="shell center">
+                <span class="eyebrow rv">FAQ</span>
+                <h2 class="h2 rv">Frequently Asked Questions about Admissions.</h2>
+            </div>
+            <div class="shell">
+                <div class="faq">
+                    <div class="q rv" role="button" tabindex="0" aria-expanded="false">
+                        <div class="qh">
+                            <h3>What makes Shoolini University unique?</h3>
+                            <span class="plus"></span>
+                        </div>
+                        <div class="qb">
+                            <div>
+                                <p>Shoolini University is a research-focused institution consistently ranked among India's top private universities by QS and THE rankings. It combines rigorous academics with practical skill modules like SPRINT and top-tier global placements.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="q rv" role="button" tabindex="0" aria-expanded="false">
+                        <div class="qh">
+                            <h3>How can I apply for scholarships?</h3>
+                            <span class="plus"></span>
+                        </div>
+                        <div class="qb">
+                            <div>
+                                <p>Scholarships are automatically evaluated based on your board exam results, national entrance test scores (like JEE, CUET, NEET, etc.), or graduation marks during the admission process.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="q rv" role="button" tabindex="0" aria-expanded="false">
+                        <div class="qh">
+                            <h3>Are hostel facilities available on campus?</h3>
+                            <span class="plus"></span>
+                        </div>
+                        <div class="qb">
+                            <div>
+                                <p>Yes, Shoolini offers modern, secure, and well-furnished residential accommodations on campus for both boys and girls with high-speed Wi-Fi, dining, and recreational spaces.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="q rv" role="button" tabindex="0" aria-expanded="false">
+                        <div class="qh">
+                            <h3>What entrance exams does Shoolini accept?</h3>
+                            <span class="plus"></span>
+                        </div>
+                        <div class="qb">
+                            <div>
+                                <p>We accept scores from national exams like JEE Main, NEET, CUET, CAT, MAT, and SAT, as well as our own online Shoolini Admission Test (STEP).</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="q rv" role="button" tabindex="0" aria-expanded="false">
+                        <div class="qh">
+                            <h3>How does the SPRINT program work?</h3>
+                            <span class="plus"></span>
+                        </div>
+                        <div class="qb">
+                            <div>
+                                <p>SPRINT (Skill Placement and Revitalization through Nurturing Training) is our signature professional bootcamp modeled on corporate leadership training to ensure students are interview-ready.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="q rv" role="button" tabindex="0" aria-expanded="false">
+                        <div class="qh">
+                            <h3>Where is the campus located?</h3>
+                            <span class="plus"></span>
+                        </div>
+                        <div class="qb">
+                            <div>
+                                <p>The campus is located in a breathtaking pine-forested valley in Kasauli Hills, Solan, Himachal Pradesh, easily accessible from Chandigarh and Delhi.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- closing cta -->
+        <section class="pad" id="start">
+            <div class="shell">
+                <div class="close-plate rv">
+                    <span class="eyebrow">Admissions 2026</span>
+                    <h2>Take the first step toward a bright future.</h2>
+                    <p class="lede">Submit your details to connect with our admissions counselors and secure your scholarship assessment.</p>
+                    <div class="form">
+                        <input class="field" type="email" placeholder="your.email@example.com" aria-label="Email address">
+                        <button class="btn solid" type="button" id="create">Apply Now</button>
+                    </div>
+                    <p class="note">Admissions open for undergraduate, postgraduate, and doctoral programs.</p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="foot">
+        <div class="shell">
+            <div class="footbar">
+                <p>&copy; 2026 Shoolini University. All rights reserved.</p>
+                <p>Template adapted from <a rel="nofollow noopener" href="https://templatemo.com" target="_blank">TemplateMo</a></p>
+            </div>
+        </div>
+    </footer>
+
+    <div class="sfx" id="sfx">
+        <button class="sbtn" id="sbtn" aria-pressed="true" aria-label="Sound on" title="Sound on">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+                <path class="cone" d="M3.5 9.4v5.2h3.4l4.6 3.8V5.6L6.9 9.4H3.5z" />
+                <path class="w1" d="M14.6 9.3a3.7 3.7 0 0 1 0 5.4" />
+                <path class="w2" d="M17.3 6.6a7.4 7.4 0 0 1 0 10.8" />
+                <path class="slash" d="M4.5 19.5L19.5 4.5" />
+            </svg>
+        </button>
+        <span class="scue" id="scue">Click once to wake the sound</span>
+    </div>
+    <button class="up" id="up" aria-label="Back to top">
+        <svg viewBox="0 0 24 24">
+            <path d="M12 19V6M6 12l6-6 6 6" />
+        </svg>
+    </button>
+    <script src="templatemo-633-celadon-script.js"></script>
+</body>
+</html>
