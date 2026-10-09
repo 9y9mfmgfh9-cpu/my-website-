@@ -32,7 +32,7 @@
 
     <aside class="drawer" id="drawer" aria-label="Menu">
         <span class="dtag">Menu</span>
-        <a href="#features">Programs</a>
+        <a href="#features">ghanta</a>
         <a href="#how">Research & Innovation</a>
         <a href="#pricing">Admissions</a>
         <a href="#stories">Campus Life</a>
